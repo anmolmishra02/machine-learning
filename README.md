@@ -1,2 +1,2 @@
 # machine-learning
-This is a machine learning project.
+This is a "Machine Learning" project.
